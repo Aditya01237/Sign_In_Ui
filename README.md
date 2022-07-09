@@ -1,8 +1,4 @@
-# sign_in
-
 # A Simple Login Ui
-
-# Screenshot
 
 ![sign_in_ui-removebg-preview](https://user-images.githubusercontent.com/80575917/178113753-e7bf89fb-b361-4305-8b73-aa05e330452d.png)
 
