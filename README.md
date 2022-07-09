@@ -2,9 +2,9 @@
 
 # A Simple Login Ui
 
-#Screenshot
+# Screenshot
 
-![sign in ui](https://user-images.githubusercontent.com/80575917/178113690-4ee863a7-998b-4f0b-bbed-6236dab76b86.png)
+![sign_in_ui-removebg-preview](https://user-images.githubusercontent.com/80575917/178113753-e7bf89fb-b361-4305-8b73-aa05e330452d.png)
 
 
 ## Getting Started
